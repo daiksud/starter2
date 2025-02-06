@@ -11,9 +11,6 @@ export default defineNuxtConfig({
       api: 'https://api.nuxt.studio',
     },
   },
-  nitro: {
-    static: true,
-  },
   vuetify: {
     vuetifyOptions: {
       components: ['VContainer'],
