@@ -1,5 +1,7 @@
 # Welcome to Nuxt Content Starter
 
+おおこれはいいのではないか
+
 This is the main page displaying Markdown located at [content/index.md](https://github.com/larbish/starter/blob/content/content/index.md).
 
 Move to [about](/about) page.
