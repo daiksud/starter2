@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  modules: ['@nuxt/content'],
+  modules: ['@nuxt/content', 'vuetify-nuxt-module', '@nuxt/image'],
   devtools: { enabled: true },
   future: {
     compatibilityVersion: 4,
@@ -13,5 +13,10 @@ export default defineNuxtConfig({
   },
   nitro: {
     static: true,
+  },
+  vuetify: {
+    vuetifyOptions: {
+      components: ['VContainer'],
+    },
   },
 })

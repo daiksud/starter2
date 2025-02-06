@@ -1,3 +1,10 @@
+::hero
+My Page Title
+
+#description
+This will be rendered inside the `description` slot.
+::
+
 # Welcome to Nuxt Content Starter
 
 おおこれはいいのではないか
@@ -24,3 +31,5 @@ The current [alert](https://github.com/larbish/starter/blob/content/app/componen
 ::
 
 Checkout out the [documentation](https://content.nuxt.com/docs/getting-started) to learn more.
+
+![everest](/everest.jpg)
